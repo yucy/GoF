@@ -3,6 +3,12 @@ package com.yucy.gof;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 类描述： 具体的主题
+ * @author:余从玉
+ * @version   1.0
+ * @since 2015年7月15日           
+ */
 public class ConcreteTopic implements Topic {
 
 	/**
