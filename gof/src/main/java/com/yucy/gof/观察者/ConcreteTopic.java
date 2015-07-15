@@ -1,4 +1,4 @@
-package com.yucy.gof;
+package com.yucy.gof.观察者;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,10 @@
 package com.yucy.gof;
+
+import com.yucy.gof.观察者.ConcreteTopic;
+import com.yucy.gof.观察者.ConcreteWatcher;
+import com.yucy.gof.观察者.Topic;
+import com.yucy.gof.观察者.Watcher;
+
 public class WatchTest {
 
 	public static void main(String[] args) {
